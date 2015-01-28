@@ -26,4 +26,4 @@ $lang['db_unable_to_set_charset'] = 'Unable to set client connection character s
 $lang['db_error_heading'] = 'Database Error opgetreden';
 
 /* End of file db_lang.php */
-/* Location: ./system/language/dutch/db_lang.php */
+/* Location: ./system/language/english/db_lang.php */
